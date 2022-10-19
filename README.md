@@ -1,0 +1,1 @@
+# Analyzing_the_Effect_of_Quantization_and_Subsampling_on_Visual_Media_Types_Like_Images_and_videos-
